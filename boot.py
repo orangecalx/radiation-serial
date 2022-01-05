@@ -1,4 +1,4 @@
-## boot.py file for adafruit metro M4 express (or any circuitpython device?) for radiation-serial logging
+## boot.py file for adafruit metro M4 express (or any circuitpython device?) for radiation-serial 
 
 import board
 import digitalio

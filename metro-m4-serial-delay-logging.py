@@ -11,7 +11,7 @@
 # pulse pin 3 (top) - GND (analog side)
 # pulse pin 2 (or off pin 16 on ATTiny) - A0
 
-# bridge D2 and GND for write mode (needed to access internal flash of M4)
+# bridge D2 and GND for write mode (needed to access internal flash)
 
 import time
 import board
