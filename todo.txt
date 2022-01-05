@@ -1,4 +1,11 @@
 todo in general
 
 - clean up m4 output to file (right now it's integers, but still showing up as floats)
-- fix pin issues on geiger itself 
+
+- work on actually parsing delay.txt output
+
+    - how to sanely convert into C array? 
+    - convert to whole integer (pretty easy)
+    - 
+
+
